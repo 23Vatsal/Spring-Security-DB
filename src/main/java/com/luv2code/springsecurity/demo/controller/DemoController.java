@@ -18,7 +18,7 @@ public class DemoController {
    }
    
    //Add view for /system
-   @GetMapping("/systems")
+   @GetMapping("/system")
    public String showAdmin() {
 	   return "admins";
    }
