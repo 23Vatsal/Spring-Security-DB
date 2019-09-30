@@ -1,7 +1,9 @@
 package com.luv2code.springsecurity.demo;
 
 import junit.framework.Test;
+
 import junit.framework.TestCase;
+
 import junit.framework.TestSuite;
 
 /**
